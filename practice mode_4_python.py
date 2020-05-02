@@ -29,7 +29,8 @@ else:
 answer1 = 'Nothing is printed.'
 answer2 = 'Only A is printed.'
 answer3 = 'Only B is printed.'
-answer4 = 'Both A and B are printed.''''
+answer4 = 'Both A and B are printed.'
+'''
 
 correct = answer2	
 
@@ -296,7 +297,6 @@ for i in range(5):
     print(rare_names[i])
     
 
-'''
 
 
 
